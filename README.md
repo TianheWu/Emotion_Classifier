@@ -13,5 +13,7 @@ __Parameters.py has all parameters
 The model definition in __Model.py
 
 My best train val:
+
 Train Loss: 0.004831779477577907 | Train Acc:  0.9418840538301094
+
 Val Loss:  0.009065498300187309 | Val Acc:  0.8892592839522635
